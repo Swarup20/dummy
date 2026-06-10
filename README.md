@@ -1,15 +1,15 @@
 # dummy
-Project Title
+# Project Title
 
 Reinforcement Learning for Dynamic Pricing
 
-Team Information
+# Team Information
 
-Team Lead
+# Team Lead
 
 Swarup
 
-Team Members
+# Team Members
 
 Suriya
 
