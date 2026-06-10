@@ -4,9 +4,9 @@ Reinforcement Learning for Dynamic Pricing
 
 # Team Information
 # Team Lead
--Swarup
+- Swarup
 
 # Team Members
--Suriya
--Manoj
--Mani
+- Suriya
+- Manoj
+- Mani
